@@ -19,4 +19,5 @@ Copyright
 ---------
 
 Copyright (c) 2010-2011 Teemu Matilainen <teemu.matilainen@iki.fi>
+
 Syntax file: Copyright (c) 2010 Sam Nguyen (https://github.com/dtjm)
